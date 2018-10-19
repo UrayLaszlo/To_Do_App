@@ -1,0 +1,10 @@
+body {
+  background-color: blueviolet;
+}
+h1 {
+  font-size: 50px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
