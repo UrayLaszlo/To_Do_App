@@ -1,1 +1,2 @@
-alert('HEy HO');
+// alert('HEy HO');
+document.getElementById('date').innerHTML = Date();

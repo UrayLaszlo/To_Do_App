@@ -1,5 +1,6 @@
 body {
-  background-color: blueviolet;
+  container
+  background-color: rgba(181, 230, 47, 0.048);
 }
 h1 {
   font-size: 50px;
@@ -7,4 +8,5 @@ h1 {
 .wrapper {
   display: flex;
   justify-content: center;
+  background-color: aquamarine;
 }
