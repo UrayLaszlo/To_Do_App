@@ -1,12 +1,35 @@
 body {
-  container
-  background-color: rgba(181, 230, 47, 0.048);
+
 }
-h1 {
-  font-size: 50px;
-}
-.wrapper {
+
+.wrapper div {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+
   background-color: aquamarine;
 }
+
+h1 {
+  text-align: center;
+}
+.second {
+  display: flex;
+}
+
+input {
+  width: 60%;
+  align-self: center;
+}
+
+.second button {
+  width: 15%;
+  align-self: flex-end;
+  margin-right: 79px;
+  
+}
+
+h3 {
+  
+}
+
